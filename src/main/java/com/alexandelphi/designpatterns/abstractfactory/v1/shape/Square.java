@@ -1,4 +1,4 @@
-package com.alexandelphi.designpatterns.abstractfactory.v1;
+package com.alexandelphi.designpatterns.abstractfactory.v1.shape;
 
 public class Square implements Shape {
 

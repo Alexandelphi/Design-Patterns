@@ -1,5 +1,11 @@
 package com.alexandelphi.designpatterns.abstractfactory.v1;
 
+import com.alexandelphi.designpatterns.abstractfactory.v1.color.Color;
+import com.alexandelphi.designpatterns.abstractfactory.v1.shape.Circle;
+import com.alexandelphi.designpatterns.abstractfactory.v1.shape.Rectangle;
+import com.alexandelphi.designpatterns.abstractfactory.v1.shape.Shape;
+import com.alexandelphi.designpatterns.abstractfactory.v1.shape.Square;
+
 public class ShapeFactory extends AbstractFactory {
 
   @Override

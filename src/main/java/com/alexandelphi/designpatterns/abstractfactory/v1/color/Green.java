@@ -1,6 +1,6 @@
-package com.alexandelphi.designpatterns.abstractfactory.v1;
+package com.alexandelphi.designpatterns.abstractfactory.v1.color;
 
-public class Blue implements Color {
+public class Green implements Color {
 
   @Override
   public void fill() {
